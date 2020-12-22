@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mo7amed-3bdalla7)
+
+<a href="https://www.linkedin.com/in/mo7amed-3bdalla7/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **mo7amed-3bdalla7/mo7amed-3bdalla7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
